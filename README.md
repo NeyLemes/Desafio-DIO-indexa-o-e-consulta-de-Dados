@@ -3,10 +3,10 @@
 
 ## Configurando uma Pesquisa Azure AI Search
 
-Crie um novo recurso do Azure AI Search
-Provisione um recurso Azure AI Services no mesmo local que o recurso Azure AI Search. Esse recurso fornecerá serviços de IA para enriquecer os dados com insights gerados por IA.
-## Criar uma Conta de Armazenamento:
-Crie uma conta de armazenamento no Azure para armazenar os documentos brutos e outras coleções de dados.
+Crie um novo recurso do Azure AI Search acessando o Portal Azure https://portal.azure.com
+Crie um novo recurso AI service no mesmo local que o recurso Azure AI Search
+Crie uma Conta de Armazenamento
+
 Permita acesso anônimo a blobs na conta de armazenamento para facilitar o acesso aos documentos.
 ## Importar Documentos para o Armazenamento:
 Baixe os arquivos de análise de café do link fornecido e extraia-os para uma pasta chamada "reviews".
