@@ -10,12 +10,14 @@ Acesse as configurações do armazenamento e habilite  acesso anônimo a blobs n
 
 ## Importar Documentos para o Armazenamento
 
-Baixe os arquivos de análise de café do link fornecido e extraia-os para uma pasta chamada "reviews".
+Baixe os arquivos disponibilizados pelo link fornecido e extraia-os
 Faça upload desses documentos para um contêiner no armazenamento de blobs do Azure.
+
 ## Indexar os Documentos
 
-Utilize o Azure AI Search para extrair insights dos documentos, criando um índice e importando os documentos do armazenamento.
-Configure o índice para enriquecer os documentos com habilidades de IA, como extração de localizações, frases-chave e detecção de sentimentos.
+Utilize o Azure AI Search para extrair as informações dos documentos, criando um índice e importando os documentos do armazenamento.
+Configure o índice para ser abastecido pelos documentos com habilidades de IA, como extração de localizações, frases-chave e detecção de sentimentos.
+
 ## Consultar o Índice
 
 Utilize a ferramenta Search Explorer no portal do Azure para escrever e testar consultas no índice.
