@@ -6,8 +6,8 @@
 Crie um novo recurso do Azure AI Search acessando o Portal Azure https://portal.azure.com
 Crie um novo recurso AI service no mesmo local que o recurso Azure AI Search
 Crie uma Conta de Armazenamento
+Axesse as confiurações do armazenamento e habilite  acesso anônimo a blobs na conta de armazenamento
 
-Permita acesso anônimo a blobs na conta de armazenamento para facilitar o acesso aos documentos.
 ## Importar Documentos para o Armazenamento:
 Baixe os arquivos de análise de café do link fornecido e extraia-os para uma pasta chamada "reviews".
 Faça upload desses documentos para um contêiner no armazenamento de blobs do Azure.
